@@ -1,0 +1,20 @@
+.p-card {
+    border-top: 3px solid #a87ca0;
+    overflow: hidden;
+
+    &__content {
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.p-card__inner {
+    h3 {
+        text-align: left;
+    }
+}
+
+.card_footer {
+    margin-top: auto;
+}

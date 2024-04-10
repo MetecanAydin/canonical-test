@@ -1,0 +1,11 @@
+// Import the framework
+@import 'node_modules/vanilla-framework';
+
+// Include all of Vanilla Framework
+@include vanilla;
+
+@import "components/index.scss";
+
+a {
+    color: #0f95a1;
+}
